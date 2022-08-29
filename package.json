@@ -1,0 +1,19 @@
+{
+  "name": "hello-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuz3n/hello-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuz3n/hello-nodejs/issues"
+  },
+  "homepage": "https://github.com/nuz3n/hello-nodejs#readme"
+}
